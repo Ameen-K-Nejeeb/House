@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+.left-nav{
+    width: 60%;
+    background: white;
+    height: 80px;
+    display: flex;
+}
+.right-nav{
+    width: 40%;
+    background: white;
+    height: 80px;
+
+}
+.container{
+    display: flex;
+    justify-content: row;
+    background: lightgrey;
+}
+.img-logo{
+    height: 60px;
+    padding: 10px;
+    padding-left: 55%;
+}
+.logo-img{
+    background: white;
+    width: 35%;
+}
+.navOptoin{
+    width: 50%;;
+}
+.nav-form{
+    margin-top: 19px;
+height: 40px;
+width: 39%;
+margin-left: 30px;
+border-radius: 40px;
+text-align: center;
+}
+.starbucks{
+    padding-top: 25px;
+    padding-left: 20%;
+    font-size: x-large;
+    color: white;
+}
+.know-button{
+    margin-top: 20px;
+    height: 35px;
+    width: 103px;
+    border-radius: 40px;
+    margin-left: 50%;
+    border-color: white;
+    background: #1e3932;
+    color: white;
+}
