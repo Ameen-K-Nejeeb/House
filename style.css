@@ -56,3 +56,15 @@ text-align: center;
     background: #1e3932;
     color: white;
 }
+.pro{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 14%;
+    margin-top: 22px;
+}
+.pro-align{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
