@@ -159,3 +159,25 @@ text-align: center;
 .content:hover{
     opacity: 1;
 }
+
+
+
+
+
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th, td {
+    padding: 6px 0; /* top/bottom spacing, no extra left/right */
+}
+
+th {
+    font-weight: bold;
+}
